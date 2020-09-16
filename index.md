@@ -40,8 +40,8 @@ but not limited to:
 
 ### Important dates
 ~~August 24~~(extended to August 30), 2020: Workshop papers submission  
-September 24, 2020: Notification of workshop papers acceptance to authors  
-September 30, 2020: Camera-ready deadline and copyright form  
+September 20, 2020: Notification of workshop papers acceptance to authors  
+September 24, 2020: Camera-ready deadline and copyright form  
 November 17, 2020: Workshops date
 
 ### The paper submission site
@@ -69,7 +69,7 @@ TBA
 
 ## Journal Opportunties: 
 Extended version of accepted wroskshop papers will be recomemnded to the following journals for quick publication as regular papers or special issue papers: 
-* [Frontiers in Big Data](https://www.frontiersin.org/journals/big-data)
+* [Frontiers in Big Data](https://www.frontiersin.org/research-topics/15969/deep-learning-for-recommender-systems)
 * [SN Computer Science](https://www.springer.com/journal/42979/updates/18167122)
 * [International Journal of Data Science and Analytics (JDSA)](https://www.springer.com/journal/41060/updates/17193470)
 
