@@ -62,7 +62,7 @@ Dr. [Ling Luo](https://findanexpert.unimelb.edu.au/profile/849504-ling-luo), Uni
 
 ### Publicity Chairs  
 Prof. [Wenpeng Lu](https://www.x-mol.com/university/faculty/160485), Qilu University of Technology  
-Dr. [Fangfang Li](https://scholar.google.com.au/citations?user=lvpF6qgAAAAJ&hl=en), oOh! media 
+Dr. [Fangfang Li](https://scholar.google.com.au/citations?user=lvpF6qgAAAAJ&hl=en), oOh! media    
 Rossi Kamal, DataScience4Human, Bangladesh 
 
 ### Program Committee
