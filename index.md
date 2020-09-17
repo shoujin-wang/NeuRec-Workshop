@@ -61,7 +61,8 @@ Prof. [Lianyong Qi](http://web.qfnu.edu.cn/qly), Qufu Normal University
 Dr. [Ling Luo](https://findanexpert.unimelb.edu.au/profile/849504-ling-luo), University of Melbourne
 
 ### Publicity Chairs  
-Prof. [Wenpeng Lu](https://www.x-mol.com/university/faculty/160485), Qilu University of Technology  
+Prof. [Wenpeng Lu](https://www.x-mol.com/university/faculty/160485), Qilu University of Technology 
+Dr. [Fangfang Li](https://scholar.google.com.au/citations?user=lvpF6qgAAAAJ&hl=en), oOh! media
 Rossi Kamal, DataScience4Human, Bangladesh 
 
 ### Program Committee
@@ -82,8 +83,3 @@ Please contact Dr. Shoujin Wang via shoujin.wang@mq.edu.au.
 --------------------------------------------------------------
 You can use the [editor on GitHub](https://github.com/786121244/NeuRec-Workshop/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
