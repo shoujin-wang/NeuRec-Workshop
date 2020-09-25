@@ -1,4 +1,4 @@
-## The workshop website has been moved to: https://datasj.github.io,  please visit the new website for updated infomration.  
+## The workshop website has been moved to: [https://datasj.github.io](https://datasj.github.io),  please visit the new website for updated infomration.  
 
 ## **News:**
 - The organization committee is pleased to set up the **best paper award** for the workshop, the winner will be awarded **300 AUD plus a certificate**.
